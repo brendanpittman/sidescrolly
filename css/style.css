@@ -246,17 +246,3 @@ Main Components
   position: absolute;
   right: 0px;
 }
-
-p{
-  text-align:center;
-}
-.top-section{
-  height:100%;
-}
-.more{
-  display:block;
-  position:absolute;
-  left: 55%;
-  bottom:-40%;
-  text-align:center;
-}
